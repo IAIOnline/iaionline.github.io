@@ -3,7 +3,7 @@
 
 # IAIOptim's Website
 
-An engaging 1-3 sentence description of your lab.
+Our lab works with Online optimization methods
 
 {% include section.html %}
 
