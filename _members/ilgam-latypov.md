@@ -10,7 +10,7 @@ aliases:
 links:
   # home-page: https://janesmith.com
   orcid: 0009-0003-5294-8098
-  github: https://github.com/xxamxam
+  github: xxamxam
   
 ---
 
